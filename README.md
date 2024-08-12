@@ -13,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amal viduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal viduranga" height="30" width="40" /></a>
-<a href="https://fb.com/amal viduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amal viduranga" height="30" width="40" /></a>
-<a href="https://instagram.com/amal viduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal viduranga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amal viduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amal viduranga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amal-viduranga-0432a427a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal viduranga" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013583265060&mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amal viduranga" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@amalvidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amal viduranga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
