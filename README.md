@@ -33,7 +33,7 @@
 |---|---|---|
 | **[MathsLK](https://mathslk.online)** | A modern learning and student portal for G.C.E. A/L Mathematics classes, recordings, materials, and administration. | Next.js, TypeScript, Supabase, Vercel |
 | **RecipeChain** | A recipe marketplace with buyer, seller, and admin workflows, Web3 authentication, wallet features, and an AI shopping assistant. | Next.js, Node.js, Express.js, PostgreSQL, Web3Auth, XRPL |
-| **Exam Insight Portal(https://exam-insight-portal-av.vercel.app/)** | A secure platform for analysing examination results by school and subject, generating rankings, and exporting reports. | React, TypeScript, Node.js, Prisma, PostgreSQL, Neon, Render |
+| **[Exam Insight Portal](https://exam-insight-portal-av.vercel.app/)** | A secure platform for analysing examination results by school and subject, generating rankings, and exporting reports. | React, TypeScript, Node.js, Prisma, PostgreSQL, Neon, Render |
 
 ---
 
